@@ -5,6 +5,10 @@
       "address": "https://ani.sidestore.io"
     },
     {
+    "name": "snappp",
+    "address": "https://v3.anisette.snappp.de/"
+    },
+    {
     "name": "sn1pz",
     "address": "https://anisette-v3-server-yid1.onrender.com"
     },

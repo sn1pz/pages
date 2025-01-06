@@ -5,7 +5,11 @@
       "address": "https://ani.sidestore.io"
     },
     {
-    "name": "snappp",
+    "name": "snappp native",
+    "address": "https://anisette.snappp.de/"
+    },
+    {
+    "name": "snappp on render",
     "address": "https://v3.anisette.snappp.de/"
     },
     {
